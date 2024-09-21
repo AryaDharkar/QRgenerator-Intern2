@@ -124,10 +124,6 @@ The main component is `QrCodeGenerator`, which:
 - **Customization**: Allow more customization options such as setting different background colors or adjusting the size of the QR code.
 - **History**: Implement a feature to save previously generated QR codes.
 
-## **License**
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## **Author**
 
 - Arya's QR Code Generator
